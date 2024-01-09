@@ -1,4 +1,4 @@
-# odin-recipes
+# Example_Website_With_Links_Recipes
 Create an example webpage for delicious recipes.
 
 Include 2 world-famous recipes with links (french bread pizza and lasagna).
